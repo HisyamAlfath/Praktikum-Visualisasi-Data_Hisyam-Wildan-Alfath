@@ -5,7 +5,7 @@ import numpy as np          # untuk membuat data numerik acak
 import altair as alt        # untuk membuat chart interaktif
 import matplotlib.pyplot as plt
 
-st.header("Praktikum 3 Visualisasi Data")
+st.header("Praktikum 1 Visualisasi Data")
 st.subheader("Bagian 2: Data Elements")
 st.markdown("""
 Kelompok 14:

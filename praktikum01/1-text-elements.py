@@ -1,7 +1,7 @@
 # import library yang dibutuhkan
 import streamlit as st
 
-st.header("Praktikum 3 Visualisasi Data")
+st.header("Praktikum 1 Visualisasi Data")
 st.subheader("Bagian 1: Teks Element")
 st.markdown("""
 Kelompok 14:

@@ -3,7 +3,7 @@ import streamlit as st
 import base64
 from PIL import Image
 
-st.header("Praktikum 3 Visualisasi Data")
+st.header("Praktikum 1 Visualisasi Data")
 st.subheader("Bagian 3: Data and Media Elements")
 st.markdown("""
 Kelompok 14:

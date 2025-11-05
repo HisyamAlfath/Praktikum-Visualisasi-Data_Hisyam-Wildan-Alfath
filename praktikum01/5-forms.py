@@ -3,7 +3,7 @@ import streamlit as st
 import datetime
 import pandas as pd
 
-st.header("Praktikum 3 Visualisasi Data")
+st.header("Praktikum 1 Visualisasi Data")
 st.subheader("Bagian 5: Forms")
 st.markdown("""
 Kelompok 14:
