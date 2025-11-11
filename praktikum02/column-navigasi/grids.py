@@ -10,7 +10,7 @@ Kelompok 14:
 3. Dean Pramona (0110222163)
 """)
 
-img = Image.open("assets/animal1.jpg")
+img = Image.open("../../praktikum01/assets/2.jpeg")
 # Defining no of Rows
 for a in range(4):
     # Defining no. of columns with size
